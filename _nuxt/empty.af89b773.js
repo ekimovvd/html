@@ -1,0 +1,1 @@
+import{_,a as s}from"./TheFooter.d9352b77.js";import{a,b as c,h as o,E as r,o as m}from"./entry.2f1bfc8b.js";import"./TheButton.7e2e395d.js";import"./TheApps.10dd721c.js";const p={},l={class:"empty-layout"};function d(t,f){const e=_,n=s;return m(),c("div",l,[o(e),r(t.$slots,"default"),o(n)])}const y=a(p,[["render",d]]);export{y as default};
