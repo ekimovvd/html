@@ -1,1 +1,0 @@
-import{_,a as s}from"./TheFooter.11b2ff27.js";import{k as c,l as r,v as e,X as a,o as m}from"./entry.3f7cc95e.js";import"./TheButton.50643ea6.js";import"./TheApps.46268173.js";const p={},i={class:"empty-white-layout"};function l(t,d){const o=_,n=s;return m(),r("div",i,[e(o,{view:"white"}),a(t.$slots,"default"),e(n)])}const x=c(p,[["render",l]]);export{x as default};
